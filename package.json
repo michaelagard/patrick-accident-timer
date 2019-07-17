@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "countup.js": "^2.0.4",
+    "react-countup": "^4.2.0"
+  }
+}
